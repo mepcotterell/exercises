@@ -18,6 +18,12 @@ Another way to think of this is as follows: If you have an integer number
 integer <code>d</code> if, using regular math, <code>n / d</code> evaluates
 to an integer result. 
 
+For example, <code>3</code> is divisible by <code>3</code> because
+<code>3 / 3 = 1</code> where <code>1</code> is an integer. Also, <code>15</code>
+is divisible by both <code>3</code> and <code>5</code> because 
+<code>15 / 3 = 5</code> (where <code>5</code>) is an integer and
+<code>15 / 5 = 3</code> (where <code>3</code>) is an integer. 
+
 ## External Links
 
  * [Integer](http://en.wikipedia.org/wiki/Integer)
