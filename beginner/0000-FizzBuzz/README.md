@@ -18,3 +18,7 @@ Another way to think of this is as follows: If you have an integer number
 integer <code>d</code> if, using regular math, <code>n / d</code> evaluates
 to an integer result. 
 
+## External Links
+
+ * [Integer](http://en.wikipedia.org/wiki/Integer)
+
